@@ -14,4 +14,4 @@ https://fluidi.tech/ -- A ROBLOX experience/game studio. Bringing high quality c
 
 ### Portfolio
 if you would like commissioned work :p
-~~https://coopr.tech/~~ Temporarily https://fluidi.tech/c
+~~https://coopr.tech/~~ Temporarily https://fluidi.tech/c (or https://fluidi.tech/coopr)
