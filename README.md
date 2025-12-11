@@ -12,6 +12,9 @@ I am a 16 year old American developer in hopes of bringing a nice, active projec
 ### My main focus right now is
 https://fluidi.tech/ -- A ROBLOX experience/game studio. Bringing high quality community-driven games to the platform.
 
+### On hold, but still gold.
+https://cooprbot.tech/ -- A super high quality, engaging and completely free-to-use Discord bot.
+
 ### Portfolio
 if you would like commissioned work :p
 ~~https://coopr.tech/~~ Temporarily https://fluidi.tech/c (or https://fluidi.tech/coopr)
