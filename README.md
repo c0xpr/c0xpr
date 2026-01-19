@@ -1,8 +1,8 @@
 ## Best Languages
-[![My Skills](https://skillicons.dev/icons?i=lua,nodejs,js,java,cs,cpp,godot,bun,apple,swift,ts&theme=light&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=lua,nodejs,js,java,cs,cpp,godot,bun,apple,swift,ts,rust&theme=light&perline=5)](https://skillicons.dev)
 
 ## Learning
-[![Learning](https://skillicons.dev/icons?i=rust,&theme=light&perline=5)](https://skillicons.dev)
+[![Learning](https://skillicons.dev/icons?i=golang,&theme=light&perline=5)](https://skillicons.dev)
 
 ## About Me
 
