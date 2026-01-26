@@ -1,17 +1,20 @@
-## Best Languages
-[![My Skills](https://skillicons.dev/icons?i=lua,nodejs,js,java,cs,cpp,godot,bun,apple,swift,ts,rust&theme=light&perline=5)](https://skillicons.dev)
+## about me
 
-## Learning
-[![Learning](https://skillicons.dev/icons?i=golang,&theme=light&perline=5)](https://skillicons.dev)
+### in short...
+i read computer, i write computer, i speak computer, i am computer.
 
-## About Me
+i am a young 2/3 stack developer working on projects simply for fun.
 
-### In short...
-I am a 16 year old American developer in hopes of bringing a nice, active project to life!
+i work against ai, but towards actual new advancements! make things easier without being a slob.
 
-### My main focus right now is
-https://cooprbot.tech/ -- A super high quality, engaging and completely free-to-use Discord bot.
+## about me for nerds
 
-### Portfolio
-if you would like commissioned work :p
-https://coopr.tech/
+### main focus...
+[![coopr bot](https://cooprbot.tech)] - a high quality, fully customizable, engaging and completely free-to-use Discord bot.
+
+## best languages
+[![my skills](https://skillicons.dev/icons?i=lua,nodejs,js,java,cs,cpp,godot,bun,apple,swift,ts,rust&theme=light&perline=5)](https://skillicons.dev)
+
+## learning...
+[![learning](https://skillicons.dev/icons?i=golang,&theme=light&perline=5)](https://skillicons.dev)
+
