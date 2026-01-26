@@ -10,7 +10,7 @@ i work against ai, but towards actual new advancements! make things easier witho
 ## about me for nerds
 
 ### main focus...
-[![coopr bot](https://cooprbot.tech)] - a high quality, fully customizable, engaging and completely free-to-use Discord bot.
+[coopr bot](https://cooprbot.tech) - a high quality, fully customizable, engaging and completely free-to-use Discord bot.
 
 ## best languages
 [![my skills](https://skillicons.dev/icons?i=lua,nodejs,js,java,cs,cpp,godot,bun,apple,swift,ts,rust&theme=light&perline=5)](https://skillicons.dev)
