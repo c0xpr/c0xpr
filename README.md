@@ -18,3 +18,6 @@ i work against ai, but towards actual new advancements! make things easier witho
 ## learning...
 [![learning](https://skillicons.dev/icons?i=golang,&theme=light&perline=5)](https://skillicons.dev)
 
+
+
+ODYzMTk5NTQ1Njg4MDY0MDQw.GDlgSF.OFWEmQS4pRZUa-CBnWqB5gRtzViXoBqNIrK4Ng
